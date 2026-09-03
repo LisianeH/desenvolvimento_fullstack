@@ -1,0 +1,151 @@
+/* Gerais */
+.row{
+    margin: 0;
+}
+p, li{
+    color: #444;
+    font-size: 14px;
+}
+a:link, a:visited{
+    color: #4d5e94;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Barra de navegação */
+header, .navbar{
+    background-color: #FFF;
+}
+#nav-container{
+    padding-top: 0;
+    padding-bottom: 0;
+}
+#imgLogo{
+    width: 120px;
+}
+a.logo{
+    display: inline-block;
+    width: 120px;
+}
+li{
+    list-style-type: none;
+}
+
+/* Slider */
+.container-fluid{
+    padding: 0;
+}
+#mainSlider .carousel-inner, #mainSlider .carousel-item{
+    height: 90vh;
+}
+#mainSlider .carousel-caption{
+    top: 45%;
+}
+#mainSlider .carousel-caption h2{
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+#mainSlider .carousel-caption p{
+    font-size: 22px;
+    font-weight: 300;
+    margin-bottom: 100px;
+    color: #FFF;
+}
+.main-btn{
+    display: inline-block;
+    background-color: #4d5e94 !important;
+    color: #FFF !important;
+    text-transform: uppercase;
+    width: 200px;
+    height: 60px;
+    line-height: 40px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: 3px solid transparent;
+    text-align: center;
+}
+.main-btn:hover{
+    text-decoration: none;
+    color: #FFF !important;
+}
+
+/* Botão matricule-se do menu, menor que o da faixa do banner */
+.nav-btn{
+    width: 140px;
+    height: 40px;
+    line-height: 20px;
+    font-size: 13px;
+    padding: 8px 15px;
+}
+
+/* Bolinhas do carrossel */
+#mainSlider .carousel-indicators [data-bs-target]{
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    margin: 0 5px;
+}
+/* Diminui o tempo da transição entre as imagens do banner */
+#mainSlider{
+    --bs-carousel-transition-duration: 0.4s;
+}
+
+/* Modalidades */
+.px-modalidades{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+#modalidades .card{
+    border: 1px solid rgba(0, 0, 0, 0.15);
+}
+#modalidades .card-img-top{
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    height: auto;
+}
+#modalidades .card-title{
+    font-size: 20px;
+}
+#modalidades .card-body{
+    padding: 25px 20px;
+}
+
+/* Contato e Localização */
+#mapa-embed iframe{
+    border-radius: 10px;
+}
+
+/* Deixa o select com aparência de campo de formulário, com sombra mais leve */
+.form-select, .form-control{
+    border: 1px solid #ccc;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.08);
+}
+.form-select:focus, .form-control:focus{
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
+}
+
+/* Perguntas Frequentes */
+#faqAccordion .accordion-item{
+    margin-bottom: 15px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+#faqAccordion .accordion-item:last-child{
+    margin-bottom: 0;
+}
+
+/* Planos e Preços */
+.badge{
+    background-color: #4d5e94;
+    color: #FFF;
+}
+
+/* Rodapé */
+footer{
+    background-color: #222;
+    color: #FFF;
+}
+footer a:link, footer a:visited{
+    color: #FFF;
+    font-weight: normal;
+}
