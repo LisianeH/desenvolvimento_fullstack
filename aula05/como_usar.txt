@@ -1,0 +1,10 @@
+Abrir o xampp
+Executar o apache e o mysql
+
+o database da atividade é o "loja_26_2"
+
+vamos utilizar subindo o backend com o node index.js que esta dentro de \aula05\REST-API\api 
+
+podemos usar o live server para o arquivo index.html que está em \aula05\FRONTEND\ 
+para validar o front e a conexão front-back-banco
+
