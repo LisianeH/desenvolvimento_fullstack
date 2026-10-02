@@ -1,0 +1,16 @@
+Comando para instalar dependencias do typescript
+    npm install typescript
+
+Comando para iniciar a aplicação typescript
+    npx tsc --init 
+
+Arquivo tsconfig.json as configurações da linguagem
+
+Comando para compilar os arquivos de .ts e transformar para .js
+    npx tsc
+    **em qualquer alteração de código temos que compilar novamente
+
+Para executar, sempre será o arquivo JS, com o comando
+    node arquivo.js
+
+O tipo "type" é do tipo que criamosm como um dicionário/biblioteca

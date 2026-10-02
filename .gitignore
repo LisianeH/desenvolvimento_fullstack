@@ -1,2 +1,7 @@
 /.vscode
 aula05/REST-API/api/node_modules
+typescript/node_modules
+typescript/*.d.ts
+typescript/*.d.ts.map
+typescript/*.js
+typescript/*.js.map
