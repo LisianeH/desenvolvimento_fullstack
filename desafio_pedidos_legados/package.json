@@ -1,0 +1,13 @@
+{
+  "name": "desafio_pedidos_legados",
+  "version": "1.0.0",
+  "description": "Módulo de pedidos recriado em TypeScript estrito",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc && node dist/index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "typescript": "^7.0.2"
+  }
+}

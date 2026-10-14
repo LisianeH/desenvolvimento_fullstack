@@ -13,3 +13,6 @@ classes_typescript/*.d.ts
 classes_typescript/*.d.ts.map
 classes_typescript/*.js
 classes_typescript/*.js.map
+
+desafio_pedidos_legados/node_modules
+desafio_pedidos_legados/dist
