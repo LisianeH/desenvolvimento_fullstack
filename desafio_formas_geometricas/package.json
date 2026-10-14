@@ -1,0 +1,13 @@
+{
+  "name": "desafio_formas_geometricas",
+  "version": "1.0.0",
+  "description": "Cálculo de área de formas geométricas com classe abstrata",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc && node dist/index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "typescript": "^7.0.2"
+  }
+}
