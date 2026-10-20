@@ -19,6 +19,11 @@ desafio_pedidos_legados/dist
 
 desafio_formas_geometricas/node_modules
 desafio_formas_geometricas/dist
+desafio_formas_geometricas/src/node_modules
+desafio_formas_geometricas/src/*.d.ts
+desafio_formas_geometricas/src/*.d.ts.map
+desafio_formas_geometricas/src/*.js
+desafio_formas_geometricas/src/*.js.map
 
 desafio_whatsapp/src/node_modules
 desafio_whatsapp/src/*.d.ts
@@ -26,7 +31,8 @@ desafio_whatsapp/src/*.d.ts.map
 desafio_whatsapp/src/*.js
 desafio_whatsapp/src/*.js.map
 
-desafio_banco/src/node_modules
+desafio_banco/node_modules
+desafio_banco/dist
 desafio_banco/src/*.d.ts
 desafio_banco/src/*.d.ts.map
 desafio_banco/src/*.js
