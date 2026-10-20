@@ -16,6 +16,11 @@ classes_typescript/*.js.map
 
 desafio_pedidos_legados/node_modules
 desafio_pedidos_legados/dist
+desafio_pedidos_legados/src/node_modules
+desafio_pedidos_legados/src/*.d.ts
+desafio_pedidos_legados/src/*.d.ts.map
+desafio_pedidos_legados/src/*.js
+desafio_pedidos_legados/src/*.js.map
 
 desafio_formas_geometricas/node_modules
 desafio_formas_geometricas/dist
