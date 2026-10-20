@@ -25,3 +25,9 @@ desafio_whatsapp/src/*.d.ts
 desafio_whatsapp/src/*.d.ts.map
 desafio_whatsapp/src/*.js
 desafio_whatsapp/src/*.js.map
+
+desafio_banco/src/node_modules
+desafio_banco/src/*.d.ts
+desafio_banco/src/*.d.ts.map
+desafio_banco/src/*.js
+desafio_banco/src/*.js.map
